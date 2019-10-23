@@ -1,0 +1,26 @@
+{
+  "name": "patientsearchnode",
+  "version": "1.0.0",
+  "description": "PatientSearchConsole",
+  "main": "index.js",
+  "scripts": {
+    "test": "PatientSearch",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnsgp1/PatientSearchNode.git"
+  },
+  "keywords": [
+    "PatientSearch"
+  ],
+  "author": "Johns George",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johnsgp1/PatientSearchNode/issues"
+  },
+  "homepage": "https://github.com/johnsgp1/PatientSearchNode#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
