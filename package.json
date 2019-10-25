@@ -21,7 +21,12 @@
   },
   "homepage": "https://github.com/johnsgp1/PatientSearchNode#readme",
   "dependencies": {
+    "ejs": "^2.7.1",
+    "ejs-html": "^5.1.5",
     "express": "^4.17.1",
-    "mysql": "^2.17.1"
+    "fs": "0.0.1-security",
+    "mustache": "^3.1.0",
+    "mysql": "^2.17.1",
+    "underscore": "^1.9.1"
   }
 }
